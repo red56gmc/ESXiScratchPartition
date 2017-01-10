@@ -1,4 +1,8 @@
-##Lists the current settings for Scratch Partition Location
+##Lists the current settings for Scratch Partition Location for a single host
+
+Get-VMHost lhqsdlcesxi04* | Get-AdvancedSetting -Name ScratchConfig.ConfiguredScratchLocation | Select Name,Value
+
+##Lists the current settings for Scratch Partition Location for multiple hosts in a cluster
 
 $vmhosts = Get-Cluster HQ-SDLC | Get-VMHost
 $scratch = “ScratchConfig.ConfiguredScratchLocation”
