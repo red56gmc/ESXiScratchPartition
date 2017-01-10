@@ -11,7 +11,7 @@ Table of Contents: N/A
 
 Installation: The file is broken into 2 different scripts to list the necessary information of what is currently configured, one to list the paths of requested datastores and finallly the one that will allow you to update the Scratch Partition Location.
 
-Usage: The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+Usage: This is not an actual script at this time instead it is 3 separate commands to run to be able to check your settings and then update as necessary.
 
 Contributing: 
 
