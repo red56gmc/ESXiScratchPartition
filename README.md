@@ -5,7 +5,7 @@ Display the current Scratch Partition location
 
 Project name: Displaying the current configured location of the ESXi Scratch Partition.
 
-Description: The scripts listed are meant to list the Advanced Setting of the Configured Scratch Partition Location and also to list the paths for datastores.
+Description: This script list is meant to list the Advanced Setting of the Configured Scratch Partition Location, list the paths for datastores and be able to change/update the settings.
 
 Table of Contents: N/A
 
